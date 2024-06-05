@@ -12,9 +12,9 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 [![My Skills](https://skillicons.dev/icons?i=figma,github,git,pnpm,npm,wordpress,webpack,vscode,netlify,mysql,mongodb,docker)](https://skillicons.dev)
 
 ## Language:
-- Japanese🇯🇵
-- English🇺🇸
-- Swahili🇹🇿
+- Japanese
+- English
+- Swahili
 
 
 <p align="left"> 

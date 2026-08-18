@@ -1,8 +1,19 @@
 ## About me 👋
-I am a front-end we developer from Japan(Nagoya).I'm currently working at Japanese company.  
-In addition, I am working as a freelancer.
+I'm a software engineer from Japan, currently based in Christchurch, New Zealand 🇳🇿.
 
-If you'd like to get to know me more, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/takahiro-okada-76b998287/).
+I have professional experience in web development, mainly using PHP, JavaScript, React, and Next.js.
+I previously worked as a Software Engineer in Japan, where I was involved in feature development, bug fixing, E2E testing, and GitHub-based team development.
+
+I'm currently studying for a Master of Information Technology (Data Science) at Whitecliffe in New Zealand.
+
+## 🌱 Currently Learning
+Machine Learning
+Data Analysis with Python
+Data Science
+AWS / Cloud technologies
+Software development with AI tools
+
+I'm particularly interested in combining software engineering, data, and AI to build useful products and solve real-world problems.
 
 ## Languages and Tools:
 ### Languages:
@@ -11,23 +22,25 @@ If you'd like to get to know me more, feel free to reach out to me on [LinkedIn]
 ### Others:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,git,pnpm,npm,wordpress,webpack,vscode,netlify,mysql,mongodb,docker)](https://skillicons.dev)
 
-## Language:
-- Japanese
-- English
-- Swahili
+## 🚀 What I'm Working On
+Building web applications and personal projects
+Learning Machine Learning through practical datasets and projects
+Exploring how AI can improve software development
+Improving my English communication skills in a professional environment
 
+## 🎯 Current Goal
 
-<!--
-**takahiro-okada/takahiro-okada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking to grow as a software engineer in New Zealand and gain experience working in an international development environment.
 
-Here are some ideas to get you started:
+I'm especially interested in opportunities involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Development
+Frontend / Full-stack Development
+Data & AI
+Cloud technologies
+
+## 📫 Connect with Me
+
+Feel free to reach out or connect with me on:
+
+[LinkedIn](https://www.linkedin.com/in/takahiro-okada-76b998287/)
